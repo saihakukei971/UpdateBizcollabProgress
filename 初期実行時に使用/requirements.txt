@@ -1,0 +1,10 @@
+pandas
+chardet
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+oauth2client
+requests
+selenium
+webdriver-manager

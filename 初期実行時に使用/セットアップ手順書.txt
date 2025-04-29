@@ -1,0 +1,6 @@
+(別端末に移動した際に以下をダブルクリックで実行してください)
+setup_pip_and_requirements.bat
+
+
+pip installに時間かかるとき
+python.exe -m pip install -r requirements.txt --prefer-binary
